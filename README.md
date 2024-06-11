@@ -10,6 +10,7 @@ First, familiarize yourself with Excel’s conditional formatting tools by watch
 ur memory with the videos or move on to the exercise.  
 Then, open the spreadsheet and familiarize yourself with the data. What kind of data is there? What information do the columns contain? What kind of trends could you see with this kind of data?  
 Then, use the conditional formatting tools (either the menu-based tools or write your own conditional formatting formulas, whichever you prefer) to do the following explorations of the data:Highlight any cells with formula errors in purple with white text.
+
     1) Highlight any cells with missing values in yellow.
     2) Identify accounts that have not been cross-sold with Product 2 by highlighting the appropriate Product 2 cells in orange.                                       
     3) Identify accounts that have a 5-year sales CAGR of at least 100% by highlighting the appropriate CAGR cells in green and any accounts with a negative CAGR in    
